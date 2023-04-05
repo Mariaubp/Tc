@@ -1,3 +1,4 @@
 # --Tecnicas de Compilacion--
-# En este repositorio estan las actividades de esta materia
-
+<p class="has-line-data" data-line-start="1" data-line-end="4">Actividades  Practicos 2023<br>
+Profesor:  -Eschoyez, Maximiliano <br>
+UNIVERSIDAD BLAS PASCAL </p>
